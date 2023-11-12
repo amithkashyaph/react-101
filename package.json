@@ -1,0 +1,22 @@
+{
+  "name": "react-101",
+  "version": "1.0.0",
+  "description": "Learning the internals of React library",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amithkashyaph/react-101.git"
+  },
+  "author": "Amith Kashyap H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amithkashyaph/react-101/issues"
+  },
+  "homepage": "https://github.com/amithkashyaph/react-101#readme",
+  "dependencies": {
+    "parcel": "^2.10.2"
+  }
+}
